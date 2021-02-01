@@ -18,11 +18,11 @@ require (
 	github.com/disintegration/gift v1.2.1
 	github.com/dlclark/regexp2 v1.4.0 // indirect
 	github.com/dustin/go-humanize v1.0.0
-	github.com/evanw/esbuild v0.8.17
+	github.com/evanw/esbuild v0.8.39
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.11.2
 	github.com/fsnotify/fsnotify v1.4.9
-	github.com/getkin/kin-openapi v0.32.0
+	github.com/getkin/kin-openapi v0.38.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gobwas/glob v0.2.3
 	github.com/gohugoio/testmodBuilder/mods v0.0.0-20190520184928-c56af20f2e95
