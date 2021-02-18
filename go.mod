@@ -18,7 +18,7 @@ require (
 	github.com/disintegration/gift v1.2.1
 	github.com/dlclark/regexp2 v1.4.0 // indirect
 	github.com/dustin/go-humanize v1.0.0
-	github.com/evanw/esbuild v0.8.46
+	github.com/evanw/esbuild v0.8.48
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.11.3
 	github.com/fsnotify/fsnotify v1.4.9
@@ -55,7 +55,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
-	github.com/tdewolff/minify/v2 v2.6.2
+	github.com/tdewolff/minify/v2 v2.9.13
 	github.com/yuin/goldmark v1.3.2
 	github.com/yuin/goldmark-highlighting v0.0.0-20200307114337-60d527fdb691
 	gocloud.dev v0.20.0
