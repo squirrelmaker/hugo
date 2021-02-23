@@ -18,7 +18,7 @@ require (
 	github.com/disintegration/gift v1.2.1
 	github.com/dlclark/regexp2 v1.4.0 // indirect
 	github.com/dustin/go-humanize v1.0.0
-	github.com/evanw/esbuild v0.8.46
+	github.com/evanw/esbuild v0.8.51
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.11.3
 	github.com/fsnotify/fsnotify v1.4.9
@@ -31,7 +31,7 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/jdkato/prose v1.2.0
 	github.com/kylelemons/godebug v1.1.0
-	github.com/kyokomi/emoji/v2 v2.2.7
+	github.com/kyokomi/emoji/v2 v2.2.8
 	github.com/magefile/mage v1.10.0
 	github.com/mattn/go-isatty v0.0.12
 	github.com/miekg/mmark v1.3.6
